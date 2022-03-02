@@ -11,5 +11,10 @@ Generates the password according to user requirement
 3.Story_Generator_project:
 In this Project i have imported random library and initialized few variables and generated few stories to each variables and calling those variables using random.choice("variable"). Generates the story randomly.
 
+4.Email_Slicer:
+In this code we ask user to enter his/her mail and slice the mail what ever username present before '@' is now stored in variable called 'Username' and domain 
+after '@' is stored in variable called 'Domain' . 
+
+
 
 
