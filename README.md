@@ -44,6 +44,10 @@ for defining a class i am calling first name and last name and fullname and dob 
 
 6.Rock_Paper_Scissor
 
+This is simple Rock Paper scissor game implemented using python if, if-else statements. Program takes user choice and 
+
+
+
 In this project we are importing random module to make random choices and defining a function called "menu" and we are applying while condition,
 asking user input and we have provided variable avaiable action's and by using random module computer pick's random action. we are also going to display
 user choice and computer choice. now we have applied if condition if user choice and computer choice is same "Tie-game" message will be displayed and 
