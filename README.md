@@ -1,19 +1,36 @@
 # Python_Mini_Projects
-This Repository consists of Python Mini Projects 
- 
-1. BMI Project: 
-This BMI project is simple python project asks user to enter name,weight,and height and condition is applied by if-else statment.
 
-2. Password_Generator_Project:
-In this project i have imported 2 libraries, and extended all the initialized variables and shuffled all the variables using random library.
-Generates the password according to user requirement
-   
+This Repository consists of Python Mini Projects 
+
+**Description & Workflow**
+
+1.BMI Project:
+
+This is simple BMI project implemented by using if, if-else statements. Program takes username, weight & height. Generates overweight message, if user weight is
+greater than or equal to 25. if not underweight message is displayed in the output screen.
+ 
+
+**Description & Workflow**
+
+2.Password_Generator_Project:
+
+A simple Password Generator project implemented using Python. Project takes password length form the user, using String module alphabets, special characters & numbers 
+extended to the variable. Using random module code randomly generators password followed by user requried.
+
+**Description & Workflow**
+
 3.Story_Generator_project:
-In this Project i have imported random library and initialized few variables and generated few stories to each variables and calling those variables using random.choice("variable"). Generates the story randomly.
+
+Story Generator project is implemented by using simple Python. Few variables and stories were generated to the respective variables. Using random module randomly
+ a random stories are generated as per variables are called.
+
+**Description & Workflow**
 
 4.Email_Slicer:
-In this code we ask user to enter his/her mail and slice the mail what ever username present before '@' is now stored in variable called 'Username' and domain 
-after '@' is stored in variable called 'Domain'.
+
+A simple Email-Slicer program takes email from the user and slices the email and domain, displays domain and username in the output.
+
+**Description & Workflow**
 
 5.Calculating age:
 
@@ -22,6 +39,8 @@ Defined class name "User" initialized keys insie init method. Spliting given nam
 i have defined another function as "age", there we are storing the current date details. Outside the function i am calling my
 class inside a class i have defined user name as rahul dravid and initialized his date of birth. With the help of object initialized 
 for defining a class i am calling first name and last name and fullname and dob with object specified in it.
+
+**Description & Workflow**
 
 6.Rock_Paper_Scissor
 
